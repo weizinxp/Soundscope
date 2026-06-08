@@ -150,8 +150,7 @@ SoundScope/
 
 ## 👨‍💻 Authors
 
-* Wenderson Carlos
-* SoundScope Team
+* Weizinxp
 
 ---
 
