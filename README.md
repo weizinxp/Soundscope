@@ -151,6 +151,7 @@ SoundScope/
 ## 👨‍💻 Authors
 
 * Weizinxp
+* NeonDZ7
 
 ---
 
